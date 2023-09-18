@@ -3,7 +3,7 @@ openapi: 3.0.0
 info:
   version: "1.0.0"
   title: Sample API
-  description: This is a sample API documentation using OpenAPI.
+  description: This is a sample API documentation using OpenAPI for test.
   termsOfService: http://example.com/terms/
   contact:
     name: API Support
