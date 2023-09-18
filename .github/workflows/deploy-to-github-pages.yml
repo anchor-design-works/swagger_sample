@@ -31,7 +31,7 @@ jobs:
         uses: Legion2/swagger-ui-action@v1
         with:
           output: swagger-ui
-          spec-file: docs/openapi.yal
+          spec-file: docs/openapi.yml
 
       - name: Deploy to GitHub Pages
         if: github.event.pull_request.merged == true
